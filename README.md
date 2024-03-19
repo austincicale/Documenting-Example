@@ -12,6 +12,9 @@
 Brief, but informative explanation of what my project is about. Explain what the project aims to achieve and why it is important or interesting.
 Example: This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+![DSC_4969](https://github.com/austincicale/Documenting-Example/assets/77798880/fa20c233-38ea-48ca-9ab7-fb429688dd5f)
+
+
 ### Data Sources
 
 Example: Sales Data: The primary dataset used for this analysis is the sales_data.csv file, containing detailed info about each sale made by the company
@@ -76,5 +79,17 @@ I had to remove all zero values from the budget and revenue columns because they
 
 ### References
 
-Links to places I received help or books I used 
+Links to places I received help or books I used
+
+😄
+💻
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+
+
+
+
 
