@@ -1,14 +1,18 @@
 # E-Commerce Sales Analysis (Project Title)
+Dont Include Here
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
 
 ## Table of Contents
-
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Analysis](#data-analysis) 
 
 ### Project Overview
-
+---
 Brief, but informative explanation of what my project is about. Explain what the project aims to achieve and why it is important or interesting.
 Example: This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
@@ -16,7 +20,7 @@ Example: This data analysis project aims to provide insights into the sales perf
 
 
 ### Data Sources
-
+---
 Example: Sales Data: The primary dataset used for this analysis is the sales_data.csv file, containing detailed info about each sale made by the company
 
 ### Tools
@@ -84,12 +88,7 @@ Links to places I received help or books I used
 😄
 💻
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Data 1   | Data 2   | Data 3   |
-| Data 4   | Data 5   | Data 6   |
+**bold**
 
-
-
-
+*italic*
 
